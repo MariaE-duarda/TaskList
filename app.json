@@ -1,0 +1,16 @@
+{ 
+  "expo": { 
+  "name": "TodoList", 
+  "icon": "./path/to/your/app-icon.png", 
+  "version": "1.0.0", 
+  "slug": "your-app-slug",
+  "ios": { 
+  "bundleIdentifier": "com.eduarda.TodoList", 
+  "buildNumber": "1.0.0" 
+  }, 
+  "android": {
+   "package": "com.eduarda.TodoList",
+      "versionCode": 1
+   }
+  }
+   }
